@@ -135,11 +135,6 @@ Contributions welcome! Please:
 
 MIT License - see LICENSE file
 
-## 👤 Author
-
-**Adarsh Rounak**
-- GitHub: [@adarsh-rounak-043](https://github.com/adarsh-rounak-043)
-
 ## 🙏 Acknowledgments
 
 - [BLIP](https://github.com/salesforce/BLIP) - Image captioning
