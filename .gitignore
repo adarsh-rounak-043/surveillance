@@ -1,3 +1,61 @@
 venv/
-__pycache__
+__pycache__/
 saved_model/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Models (if large)
+saved_model/*.bin
+saved_model/*.safetensors
+# Uncomment if you want to exclude model files from git
+# saved_model/
+
+# Alerts and logs
+alerts/*.jpg
+alerts/*.mp4
+alerts/alerts_log.json
+logs/*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
