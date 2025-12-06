@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": 1764997580.539745,
+    "datetime": "2025-12-06_10-36-20",
+    "label": "Arson",
+    "severity": "CRITICAL",
+    "confidence": 0.7747828960418701,
+    "caption": "a fire is burning on the side of a building",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_CRITICAL_Arson_2025-12-06_10-36-20.jpg"
+  },
+  {
+    "timestamp": 1764997666.7887492,
+    "datetime": "2025-12-06_10-37-46",
+    "label": "Arson",
+    "severity": "CRITICAL",
+    "confidence": 0.753693699836731,
+    "caption": "a picture of a fire burning in a field",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_CRITICAL_Arson_2025-12-06_10-37-46.jpg"
+  },
+  {
+    "timestamp": 1764997670.7186456,
+    "datetime": "2025-12-06_10-37-50",
+    "label": "Arson",
+    "severity": "CRITICAL",
+    "confidence": 0.6481295824050903,
+    "caption": "a fire is burning in a field behind a television",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_CRITICAL_Arson_2025-12-06_10-37-50.jpg"
+  },
+  {
+    "timestamp": 1764997797.5999575,
+    "datetime": "2025-12-06_10-39-57",
+    "label": "Robbery",
+    "severity": "HIGH",
+    "confidence": 0.8501694202423096,
+    "caption": "a person holding a cell with a picture of a man holding a gun",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_HIGH_Robbery_2025-12-06_10-39-57.jpg"
+  },
+  {
+    "timestamp": 1764997803.4459403,
+    "datetime": "2025-12-06_10-40-03",
+    "label": "Robbery",
+    "severity": "HIGH",
+    "confidence": 0.8993593454360962,
+    "caption": "a picture of a man holding a gun",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_HIGH_Robbery_2025-12-06_10-40-03.jpg"
+  },
+  {
+    "timestamp": 1764997808.8502853,
+    "datetime": "2025-12-06_10-40-08",
+    "label": "Robbery",
+    "severity": "HIGH",
+    "confidence": 0.9218531250953674,
+    "caption": "a man holding a gun in his right hand",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_HIGH_Robbery_2025-12-06_10-40-08.jpg"
+  },
+  {
+    "timestamp": 1764997814.2108133,
+    "datetime": "2025-12-06_10-40-14",
+    "label": "Robbery",
+    "severity": "HIGH",
+    "confidence": 0.8993593454360962,
+    "caption": "a picture of a man holding a gun",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_HIGH_Robbery_2025-12-06_10-40-14.jpg"
+  },
+  {
+    "timestamp": 1764997882.697508,
+    "datetime": "2025-12-06_10-41-22",
+    "label": "Robbery",
+    "severity": "HIGH",
+    "confidence": 0.8573035597801208,
+    "caption": "a poster of a man holding a gun",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_HIGH_Robbery_2025-12-06_10-41-22.jpg"
+  },
+  {
+    "timestamp": 1764997888.041515,
+    "datetime": "2025-12-06_10-41-28",
+    "label": "Robbery",
+    "severity": "HIGH",
+    "confidence": 0.9000053405761719,
+    "caption": "a man with a gun standing next to a poster",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_HIGH_Robbery_2025-12-06_10-41-28.jpg"
+  },
+  {
+    "timestamp": 1764998011.9478202,
+    "datetime": "2025-12-06_10-43-31",
+    "label": "Arson",
+    "severity": "CRITICAL",
+    "confidence": 0.6748015880584717,
+    "caption": "a group of people standing around a fire",
+    "image_path": "C:\\Users\\ADARSH\\Coding\\Python\\ML\\surveillance\\alerts\\alert_CRITICAL_Arson_2025-12-06_10-43-31.jpg"
+  }
+]
